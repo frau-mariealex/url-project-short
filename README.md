@@ -12,7 +12,7 @@
 
 1. Склонируйте проект:
    ```bash
-   git clone <ссылка-на-репозиторий>
+   git clone <https://github.com/frau-mariealex/url-project-short.git>
    cd <папка-с-проектом>
    ```
 
