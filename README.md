@@ -12,8 +12,8 @@
 
 1. Склонируйте проект:
    ```bash
-   git clone <https://github.com/frau-mariealex/url-project-short.git>
-   cd <папка-с-проектом>
+   git clone https://github.com/frau-mariealex/url-project-short.git
+   cd url-project-short
    ```
 
 2. Запустите сервис с помощью Maven:
